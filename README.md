@@ -23,7 +23,7 @@
 - 💡 **Passions**: Developing real-time web applications, experimenting with **Machine Learning & Graph Analytics**, and exploring **EVM Blockchain / Web3**.
 - 🚀 **Current Focus**: Scaling full-stack interactive systems and AI-powered predictive fraud detection pipelines.
 - 🤝 **Collaboration**: Open to collaborating on open-source web development, AI/ML, and blockchain projects.
-- 📫 **Get in touch**: Connect on [LinkedIn](https://www.linkedin.com/in/ruchika-vyavahare) or DM on Instagram [@_ruchi__24](https://instagram.com/_ruchi__24).
+- 📫 **Get in touch**: Connect on [LinkedIn](https://www.linkedin.com/in/ruchika-vyavahare).
 
 ---
 
